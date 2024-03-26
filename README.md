@@ -7,8 +7,7 @@
 English | [简体中文](./README_zh.md)
 
 This is a tool and `Golang` package that uses `swagger2.0` definitions to generate API static documents (such as pdf)
-based
-on template files.
+based on template files.
 
 ## Installation
 
